@@ -1,9 +1,9 @@
 <h1 align="left">Hi there, it's Dipali Mistry 👋</h1>
-<h3 align="left">I am a Business and Data Analysis Expert</h3>
+<h3 align="left">I am a Business Analysis Expert</h3>
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Business+Analyst+at+OMA+Natural+Foods;Master's+in+Information+Technology;Business+and+Data+Analysis+Pro" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Business+Analyst+at+OMA+Natural+Food;Master's+in+Information+Technology;Business+Analysis+Pro" alt="Typing SVG">
   </a>
 </p>
 
