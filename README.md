@@ -18,7 +18,7 @@
 <p align="left">Connect with me on:</p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/dipalimalinks/" target="_blank">
+  <a href="https://www.linkedin.com/in/dipali-mistry/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn Logo">
   </a>
 </p>
