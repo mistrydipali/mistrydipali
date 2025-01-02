@@ -3,12 +3,12 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Business+Analyst+at+OMA+Natural+Food;Master's+in+Information+Technology;Business+Analysis+Pro" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Business+Analyst+at+OMA+Natural+Food;Master's+in+Information+Science+and+Technology;Business+Analysis+Pro" alt="Typing SVG">
   </a>
 </p>
 
 <p align="left">
-  - 🔭 Currently working at <strong>OMA Natural Foods, New York</strong><br>
+  - 🔭 Currently working at <strong>OMA Natural Food, New York</strong><br>
   - 🌱 Tools I'm proficient in: <strong>SQL, Python, Tableau, Power BI, Excel, Agile Methodologies</strong><br>
   - 🌱 I’m currently learning <strong>Advanced Data Modeling, Predictive Analytics, CRM Integration</strong><br>
   - 💬 Ask me about <strong>Business Process Modeling, Data Governance, SQL Reporting, Data Visualization, Stakeholder Engagement</strong><br>
